@@ -22,7 +22,7 @@
 |---|---|---|---|---|---|
 |名词|`Mr.Wang` arrived last night.|I read a `book`.|He is `a famous palyer`.|I think my brother `a clever boy`.|Tommy looked at `her watch`.|
 |代词|`I` arrived last night.|Study makes `me` happy.|The best is `him`.|Tony called his colleagues `others`.|John spent much time on `something` useless.|
-|名词性从句|`Whether he will leave` is unclear.|I don't know `who i can believe`.|The problem is `how we will organize the work`.|The teacher make John `who wanted to be`.|John is on the way to `which his father was going`.|
+|名词性从句|`Whether he will leave` is unclear.|I don't know `who i can believe`.|The problem is `how we will organize the work`.|The teacher made John `who he wanted to be`.|John is on the way to `which his father was going`.|
 |动词不定式|`To begin` is the first step.|She likes `to travel around the world`.|My plan is `to help more people`.|The doctor allowed him `to work`.||
 |动名词|`Collecting information` is my job.|I like `reading books`.|Seeing is `believing`.|They named the activity `skiing on the mud`.|We are looking forward to `holding a party`.|
 
