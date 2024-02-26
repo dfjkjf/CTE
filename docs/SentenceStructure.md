@@ -15,7 +15,7 @@ sort: 1
 - 主+谓+宾+宾
     - 主+谓+间接宾语+直接宾语
     - `My aunt bought me a book.` --> `My aunt bought a book for me.`
-- 主+谓+表
+- 主+系+表
 - 主+谓+宾+补
 
 ## 表语

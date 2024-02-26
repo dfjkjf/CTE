@@ -52,4 +52,31 @@ Nobody considers it desirable `how Tom will go to Shanghai for work next Tuesday
 
 ## 定语从句
 
+The girl was in red. The girl broke the glass.
+
+### 转换为从句
+
+- 将句中需要提问的部分替换为相应的疑问代词，并将其至于居首。
+    - The girl `who was in red` broke the glass.
+
+### 省略定语从句
+
+当定语从句是`主+系+表`结构，且引导词为`who/which/that`时，可以通过省略引导词和be动词来简化句子。
+- The girl `in red` broke the glass.
+- I' m working in the building, built last year.
+
+### 引导词
+
+|引导词|替代对象|注意|
+|---|---|---|
+|who|人||
+|whom|人|专用于书面语中替换宾语、介宾|
+|which|物||
+|that|人或物||
+|where|地点||
+|when|时间||
+|whose|所有格||
+
+当引导词是`who/whom/that/which`，且替换的是宾语或介宾时，引导词可省略
+
 ## 状语从句
