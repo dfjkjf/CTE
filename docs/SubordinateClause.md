@@ -59,11 +59,16 @@ The girl was in red. The girl broke the glass.
 - 将句中需要提问的部分替换为相应的疑问代词，并将其至于居首。
     - The girl `who was in red` broke the glass.
 
-### 省略定语从句
+### 定语从句的省略
 
 当定语从句是`主+系+表`结构，且引导词为`who/which/that`时，可以通过省略引导词和be动词来简化句子。
-- The girl `in red` broke the glass.
-- I' m working in the building, built last year.
+- The girl `(who was)` in red broke the glass.
+- I' m working in the building, `which was` built last year.
+
+如果谓语不是be动词，则先改为be动词，再省略：
+1. The company has introduced a new insurance plan that costs just $150 per person per month.
+2. The company has introduced a new insurance plan that is costing just $150 per person per month.
+3. The company has introduced a new insurance plan costing just $150 per person per month.
 
 ### 引导词
 
@@ -80,3 +85,72 @@ The girl was in red. The girl broke the glass.
 当引导词是`who/whom/that/which`，且替换的是宾语或介宾时，引导词可省略
 
 ## 状语从句
+
+状语从句是能够当作副词使用的从句，结构为：状语从句 = 从属连词 + 简单句。
+
+**从属连词**
+
+|属性|连词|例子|
+|---|---|---|
+|时间|when<br>while<br>befor<br>after<br>since|`After teacher went outside`, he told us answer.|
+|条件|if<br>even if<br>as loong as|`If you see Shelly`, give her this backpack.|
+|原因|because<br>as<br>since|I usually eat at home `as I like cooking`.|
+|对比|although<br>even though<br>whereas<br>while|`Although I'm bad at football`, it's fun to play.|
+
+> 当从句位于主句前，通常用逗号将之隔开。
+
+### 状语从句的省略
+
+如果从句的主语和主句的主语相同，则省略从句的主语和之后的be动词：
+- While `(I was)` reading this book, I picked up more than one hundred printing mistakes.
+- As `(she is)` a doctor, she sees people facing death every day.
+
+如果谓语不是be动词，则先改为be动词，再省略：
+1. Before he went for work, Tom took a shower.
+2. Before he was going for work, Tom took a shower.
+3. Before going for work, Tom took a shower.
+
+## 并列句
+
+并列句是多个单词、短语或句子的并列。
+
+**并列连词**
+
+|属性|连词|例子|
+|---|---|---|
+|原因|for|It's cold today, `for it snowed last night`.|
+|共同|and|I like apples `and oranges`.|
+|都不|nor|Neither John `nor Mary` is coming to the party.|
+|转折|but|I wanted to go to the beach, `but it started to rain`.|
+|选择|or|Do you want tea `or coffee`?|
+|相反|yet|She is very smart `yet she never brags about it`.|
+|因果|so|He didn't study for the exam, `so he didn't pass`.|
+|选择|either or|The picture is either an original or an excellent copy.|
+|都不|neither nor|Neither I nor she agreed with John.|
+|递进|not olny but also|I not ony talked with him but also got his signature.|
+|共同|both and|Both Tom and Mary like English.|
+
+**but & yet**
+
+`I wanted to go to the beach, but it started to rain.` 和 `I wanted to go to go the beach, yet it started to rain.` 这两个句子在结构上非常相似，都表达了想要去海滩的愿望与下雨这一现实之间的对比。然而，使用 `but` 和 `yet` 作为并列连词时，语气和强调点有细微的差别。
+1. 使用 `but`：
+
+    `But` 在这里强调了愿望与现实之间的直接对比。它通常用来指出两个相反或矛盾的情况。在这个句子中，`but` 强调了尽管有去海滩的愿望，但下雨这一事实阻止了这个愿望的实现。
+2. 使用 `yet`：
+
+    `Yet` 通常用于表示尽管存在某种情况，但另一种情况仍然成立。它有时用于强调意外或不寻常的对比。在这个句子中，使用 `yet` 可能会给人一种感觉，即尽管下雨了（这通常会阻止人们去海滩），但说话者仍然想要去海滩，或者在某种程度上，下雨并没有完全消除去海滩的愿望。
+
+总的来说，`but` 更直接地表达了对比和矛盾，而 `yet` 则可能带有一种尽管有障碍，但愿望仍然存在的意味。在实际使用中，这种差别可能很微妙，有时可以根据个人的风格和句子的具体语境来选择使用哪一个连词。
+
+### 比较句
+
+比较句是并列句省略后的产物。
+
+|连词|属性|例子|
+|---|---|---|
+|as...as..|第一个as副词，第二个as连词|Jay studies as hard as his brother `(studyies)`.|
+|than|连词，比|Jay studies hard than his brother `(studyies)`.|
+
+### 并列句的省略
+
+- We desire happiness and `(we desire)` health.
